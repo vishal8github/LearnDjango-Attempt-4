@@ -1,0 +1,17 @@
+Mentor name: Navin Reddy
+
+Project name: Basic Django
+
+Prerequisites:
+	Python
+	Relational database
+
+DESCRIPTION:
+	Django Tutorial for Beginners | Full Course;
+	
+	
+
+reference:
+	video link:
+		https://www.youtube.com/watch?v=OTmQOjsl0eg&t=3102s
+	
